@@ -38,6 +38,7 @@ The dashboard was built using the following tools and technologies.
 🧪 Report Testing & Optimization – Ensuring accuracy, performance, and usability.
 
 🧠 UI/UX Design (Mockups & Layout Design) – Structuring dashboard for better storytelling and readability.
+
 Data Source:
 
 Source: Dataset acquired from a Power BI tutorial by Chandoo on YouTube, used for building and demonstrating analytics solutions.
