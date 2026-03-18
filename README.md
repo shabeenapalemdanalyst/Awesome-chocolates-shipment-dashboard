@@ -1,9 +1,11 @@
 # Awesome-chocolates-shipment-dashboard
 Title:
+
 Awesome Chocolates: Shipment, Profit & Product Insights Dashboard
 An interactive business intelligence dashboard analyzing sales, shipment distribution, product performance, and profitability to uncover actionable insights for Awesome Chocolates.
 
 Description:
+
 An interactive dashboard analyzing Awesome Chocolates’ sales, shipment distribution, and profitability across products, regions, and sales teams.
 It highlights key KPIs, year-over-year trends, and top-performing products and salespersons.
 The dashboard enables quick identification of growth opportunities and underperforming areas for data-driven decision-making.
