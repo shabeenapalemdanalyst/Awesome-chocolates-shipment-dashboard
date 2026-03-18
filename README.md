@@ -11,6 +11,7 @@ It highlights key KPIs, year-over-year trends, and top-performing products and s
 The dashboard enables quick identification of growth opportunities and underperforming areas for data-driven decision-making.
 
 Tech Stak:
+
 The dashboard was built using the following tools and technologies.
 📊 Power BI Desktop – Main tool used for building interactive dashboards and reports.
 
@@ -38,14 +39,15 @@ The dashboard was built using the following tools and technologies.
 
 🧠 UI/UX Design (Mockups & Layout Design) – Structuring dashboard for better storytelling and readability.
 Data Source:
+
 Source: Dataset acquired from a Power BI tutorial by Chandoo on YouTube, used for building and demonstrating analytics solutions.
 Features and Highlights:
 🚀 Features & Highlights
-📌 1. Business Problem
+📌 Business Problem
 
 Businesses often struggle to track sales performance, shipment efficiency, and product profitability across regions and time. Lack of a centralized dashboard makes it difficult to identify trends, top-performing products, and underperforming areas, leading to delayed or ineffective decision-making.
 
-🎯 2. Goal of the Dashboard
+🎯 Goal of the Dashboard
 
 The goal of this dashboard is to provide a comprehensive view of sales, profit, and shipment data by:
 
@@ -57,7 +59,7 @@ Identifying top products, regions, and salespersons
 
 Improving data-driven decision-making through interactive visuals
 
-📊 3. Walkthrough of Key Visuals
+📊 Walkthrough of Key Visuals
 
 KPI Cards (Top Section)
 Displays key metrics such as Total Sales ($65M), Total Boxes, Shipment Count, Total Profit, and Profit % for quick insights.
@@ -83,7 +85,7 @@ Detailed view of product-wise revenue and profit %, enhanced with conditional fo
 Slicers & Filters (Top Right)
 Allows users to dynamically filter data by date range and other dimensions.
 
-💡 4. Business Impact & Insights
+💡 Business Impact & Insights
 
 Identified top-performing products contributing the highest revenue, enabling focused marketing strategies.
 
