@@ -96,4 +96,4 @@ Helped evaluate salesperson efficiency, improving performance management.
 Reduced manual reporting efforts by delivering a fully interactive and automated dashboard.
 
 Screenshot of the Dashboard:
-![Dashboard Preview].(https://github.com/shabeenapalemdanalyst/Awesome-chocolates-shipment-dashboard/blob/main/Awesomechocolates_shipment_analysis_dashboard.PNG)
+![Dashboard Screenshot](https://github.com/your-username/your-repo/raw/main/dashboard.png)
