@@ -50,15 +50,15 @@ Businesses often struggle to track sales performance, shipment efficiency, and p
 
 ## 🎯 Goal of the Dashboard
 
-The goal of this dashboard is to provide a comprehensive view of sales, profit, and shipment data by:
+-- The goal of this dashboard is to provide a comprehensive view of sales, profit, and shipment data by:
 
-Enabling real-time performance tracking
+-- Enabling real-time performance tracking
 
-Comparing current vs previous year (YoY) metrics
+-- Comparing current vs previous year (YoY) metrics
 
-Identifying top products, regions, and salespersons
+-- Identifying top products, regions, and salespersons
 
-Improving data-driven decision-making through interactive visuals
+-- Improving data-driven decision-making through interactive visuals
 
 ## 📊 Walkthrough of Key Visuals
 
